@@ -1,12 +1,11 @@
 {
   "files": {
-    "main.css": "/static/css/main.78175b7b.css",
-    "main.js": "/static/js/main.40fee84e.js",
+    "main.css": "/static/css/main.3cc2417b.css",
+    "main.js": "/static/js/main.365b7d1c.js",
     "static/js/787.1a9895b8.chunk.js": "/static/js/787.1a9895b8.chunk.js",
     "static/media/table_green2.png": "/static/media/table_green2.668ce7f35036c53274b5.png",
     "static/media/roulette-circle.png": "/static/media/roulette-circle.82b00040a1876ae4cb40.png",
     "static/media/back.png": "/static/media/back.4454f4349849b00d39ce.png",
-    "static/media/green_table.png": "/static/media/green_table.50d79a1d3b79d288082a.png",
     "static/media/casino_bg.jpg": "/static/media/casino_bg.79193505577a0fae2ba7.jpg",
     "static/media/PokerKingsRegular-36K8.ttf": "/static/media/PokerKingsRegular-36K8.8e126b312c77b264c871.ttf",
     "static/media/roulette.jpg": "/static/media/roulette.2d1b3c1b59386ee1f750.jpg",
@@ -75,12 +74,12 @@
     "static/media/chip_100$.png": "/static/media/chip_100$.fbf2cf295cd010747270.png",
     "static/media/PokerInOctoberDemo-Dxm3.otf": "/static/media/PokerInOctoberDemo-Dxm3.a20a22f48b56a13ffcf2.otf",
     "index.html": "/index.html",
-    "main.78175b7b.css.map": "/static/css/main.78175b7b.css.map",
-    "main.40fee84e.js.map": "/static/js/main.40fee84e.js.map",
+    "main.3cc2417b.css.map": "/static/css/main.3cc2417b.css.map",
+    "main.365b7d1c.js.map": "/static/js/main.365b7d1c.js.map",
     "787.1a9895b8.chunk.js.map": "/static/js/787.1a9895b8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.78175b7b.css",
-    "static/js/main.40fee84e.js"
+    "static/css/main.3cc2417b.css",
+    "static/js/main.365b7d1c.js"
   ]
 }
