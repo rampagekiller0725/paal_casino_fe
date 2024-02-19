@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.92c3f53b.css",
-    "main.js": "/static/js/main.3329b5c5.js",
+    "main.css": "/static/css/main.4cf1e3aa.css",
+    "main.js": "/static/js/main.fe2c1073.js",
     "static/js/787.1a9895b8.chunk.js": "/static/js/787.1a9895b8.chunk.js",
     "static/media/table_green2.png": "/static/media/table_green2.668ce7f35036c53274b5.png",
     "static/media/roulette-circle.png": "/static/media/roulette-circle.82b00040a1876ae4cb40.png",
@@ -15,6 +15,7 @@
     "static/media/Poppins-BlackItalic.ttf": "/static/media/Poppins-BlackItalic.563eda3d3407af0fb581.ttf",
     "static/media/Poppins-Thin.ttf": "/static/media/Poppins-Thin.59ff6a729e30c99b478e.ttf",
     "static/media/Poppins-ExtraLight.ttf": "/static/media/Poppins-ExtraLight.333cb30c20e31999802a.ttf",
+    "static/media/Poppins-Light.ttf": "/static/media/Poppins-Light.7641a0f76ca9ef6c252c.ttf",
     "static/media/Poppins-Regular.ttf": "/static/media/Poppins-Regular.35d26b781dc5fda684cc.ttf",
     "static/media/Poppins-Medium.ttf": "/static/media/Poppins-Medium.673ed42382ab264e0bf5.ttf",
     "static/media/Poppins-SemiBold.ttf": "/static/media/Poppins-SemiBold.ac8d04b620e54be9b0f0.ttf",
@@ -60,6 +61,7 @@
     "static/media/8D.png": "/static/media/8D.b1389da2bd2f2812f55c.png",
     "static/media/JC.png": "/static/media/JC.db55f36b0d17719d03dd.png",
     "static/media/6C.png": "/static/media/6C.b44599ca5e9e11e61863.png",
+    "static/media/triplecard.png": "/static/media/triplecard.866bf5ee949a0ac03e40.png",
     "static/media/QD.png": "/static/media/QD.5678ff518d2a21c4d2d5.png",
     "static/media/7S.png": "/static/media/7S.1517728ea424d193c5a7.png",
     "static/media/6S.png": "/static/media/6S.1cbd30ed1339258d51c6.png",
@@ -78,9 +80,11 @@
     "static/media/5D.png": "/static/media/5D.ced27ce3f458223d097c.png",
     "static/media/3C.png": "/static/media/3C.bbea0442d0b02b9f8b3d.png",
     "static/media/4C.png": "/static/media/4C.e6ba95ce4047b4e077d8.png",
+    "static/media/ultimate.png": "/static/media/ultimate.156b8a2801f20bd389f5.png",
     "static/media/chip_10$.png": "/static/media/chip_10$.ab4b8f272169b722fb3e.png",
     "static/media/3S.png": "/static/media/3S.5aea02209cd1850b2085.png",
     "static/media/4S.png": "/static/media/4S.8f0668446faa6a9e9852.png",
+    "static/media/letitride.png": "/static/media/letitride.b0e6e74ea30a42270322.png",
     "static/media/3H.png": "/static/media/3H.d50c0a08e3608192656a.png",
     "static/media/4H.png": "/static/media/4H.436fe356aa88903aedfa.png",
     "static/media/3D.png": "/static/media/3D.b78fe80c763b6f828c0e.png",
@@ -91,15 +95,21 @@
     "static/media/baccarat.png": "/static/media/baccarat.991904e8d6834ee87bec.png",
     "static/media/2D.png": "/static/media/2D.a51b192d2f2ba1fc1d53.png",
     "static/media/chip_100$.png": "/static/media/chip_100$.fbf2cf295cd010747270.png",
+    "static/media/profile.png": "/static/media/profile.0fb58d979e81429adf7c.png",
     "static/media/PokerInOctoberDemo-Dxm3.otf": "/static/media/PokerInOctoberDemo-Dxm3.a20a22f48b56a13ffcf2.otf",
     "static/media/logo.svg": "/static/media/logo.8f4ab6b3f883f872ac9f.svg",
+    "static/media/point.svg": "/static/media/point.8fe6cd34523ea78902698a587113f6df.svg",
+    "static/media/profile.svg": "/static/media/profile.d400a96591dfab31a45d25d60cb9f53a.svg",
     "index.html": "/index.html",
-    "main.92c3f53b.css.map": "/static/css/main.92c3f53b.css.map",
-    "main.3329b5c5.js.map": "/static/js/main.3329b5c5.js.map",
+    "static/media/home.svg": "/static/media/home.c4678532e3a274b95c2056c44c5ff5c8.svg",
+    "static/media/leaderboard.svg": "/static/media/leaderboard.989dc92d9451d83d7c6d125f785bd015.svg",
+    "static/media/games.svg": "/static/media/games.9c7edcdb3100f039e5f5e72a5ec135d1.svg",
+    "main.4cf1e3aa.css.map": "/static/css/main.4cf1e3aa.css.map",
+    "main.fe2c1073.js.map": "/static/js/main.fe2c1073.js.map",
     "787.1a9895b8.chunk.js.map": "/static/js/787.1a9895b8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.92c3f53b.css",
-    "static/js/main.3329b5c5.js"
+    "static/css/main.4cf1e3aa.css",
+    "static/js/main.fe2c1073.js"
   ]
 }
